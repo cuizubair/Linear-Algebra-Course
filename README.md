@@ -4,7 +4,7 @@ A complete, topic-wise Python collection for Linear Algebra. Includes step-by-st
 
 Welcome to the **Complete Linear Algebra with Python** repository! 
 
-This project is designed for BS students, computer science majors, and self-learners who want to bridge the gap between abstract mathematical theory and practical programming. Instead of just reading textbook formulas, you will learn how to implement, visualize, and solve Linear Algebra problems using **Python, NumPy, and Matplotlib**.
+This project is designed for BS students, computer science majors or others, and self-learners who want to bridge the gap between abstract mathematical theory and practical programming. Instead of just reading textbook formulas, you will learn how to implement, visualize, and solve Linear Algebra problems using **Python, NumPy, and Matplotlib**.
 
 ---
 
