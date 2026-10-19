@@ -1,6 +1,6 @@
-# Linear----Algebra----Course
-A complete, topic-wise Python collection for Linear Algebra. Includes step-by-step implementations, visualizations (Matplotlib/NumPy), and solutions for Problems based on Howard Anton,  Gareth Williams and Jim DeFranza book.
+
 # 🧮 Complete Linear Algebra Course with Python
+[![YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Course-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@z.integratemaths)
 
 Welcome to the **Complete Linear Algebra with Python** repository! 
 
