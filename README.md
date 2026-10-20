@@ -1,6 +1,5 @@
 
-# 🧮 Complete Linear Algebra Course with Python
-[![YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Course-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@z.integratemaths)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-ZMathLab-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@ZMathLab)
 
 Welcome to the **Complete Linear Algebra with Python** repository! 
 
